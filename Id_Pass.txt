@@ -1,0 +1,8 @@
+insert into quiz.user_varun values (16802,'$2a$12$ZNwrxAg6Gz5/zj1/zxck1.hzkjFOT4uPOb9i5u18rog1kyCSbyDVe','ROLE_ADMIN','varun');
+insert into quiz.user_varun values (16808,'$2a$12$ZNwrxAg6Gz5/zj1/zxck1.hzkjFOT4uPOb9i5u18rog1kyCSbyDVe','ROLE_ADMIN','arpita');
+
+insert into quiz.user_varun values (16800,'$2a$12$ZNwrxAg6Gz5/zj1/zxck1.hzkjFOT4uPOb9i5u18rog1kyCSbyDVe','ROLE_USER','vaid');
+insert into quiz.user_varun values (16801,'$2a$12$ZNwrxAg6Gz5/zj1/zxck1.hzkjFOT4uPOb9i5u18rog1kyCSbyDVe','ROLE_USER','arpan');
+commit;
+
+Pass:1234
